@@ -1,9 +1,11 @@
-"birds"
-"cat names"
+"birds";
+"cat names";
 
-23
--357
-.05
+23;
+-357;
+.05;
 
-true
-false
+true;
+false;
+
+["Mister Whiskers", "Cap'n Droolbeard", "Kevin"];
